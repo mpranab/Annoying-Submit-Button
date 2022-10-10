@@ -22,6 +22,7 @@ body {
   min-height: 95vh;
   display: grid;
   place-content: center;
+  background-image: url("https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=2000");
 }
 
 .input-block {

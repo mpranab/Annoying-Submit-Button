@@ -1,6 +1,9 @@
 a {
-    color: #333;
+    color: rgb(54, 11, 11);
     text-decoration: underline;
     letter-spacing: 0.45px;
   }
+footer{
+        background: rgb(29, 136, 155);
+}
   
